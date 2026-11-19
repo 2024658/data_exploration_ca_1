@@ -21,4 +21,4 @@ Python, pandas, matplotlib, seaborn, scikit-learn (Jupyter Notebook)
 ## How to run
 1. Install: `pip install pandas numpy matplotlib seaborn scikit-learn jupyter`
 2. Put `owid_energy.csv` in the `data/` folder.
-3. Open `notebooks/energy_analysis.ipynb` and choose Run All.
+3. Open `notebooks/Electricity_Generation_Analysis.ipynb` and choose Run All.
